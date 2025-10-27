@@ -1,0 +1,7 @@
+# Cursor/Claude Code ignore file
+# Files matching these patterns will be ignored by Cursor
+
+# Windows Zone.Identifier files (created when downloading files from the internet)
+*:Zone.Identifier
+**/*:Zone.Identifier
+
